@@ -9,7 +9,7 @@
 
 
 <div>
-<img class="wp-image-thumb img-responsive minha-classe" src="https://i.ibb.co/dDB1zs1/pou2.png" width="300" height="350" alt="uber-clone" />
-  <img class="wp-image-thumb img-responsive minha-classe" src="https://i.ibb.co/Sd2KnMm/pou3.png" width="300" height="350" alt="uber-clone" />
-      <img class="wp-image-thumb img-responsive minha-classe" src="https://i.ibb.co/pQFXDY8/download-2.png" width="300" height="350" alt="uber-clone" />
+<img class="wp-image-thumb img-responsive minha-classe" src="https://i.ibb.co/dDB1zs1/pou2.png" width="300" height="280" alt="uber-clone" />
+  <img class="wp-image-thumb img-responsive minha-classe" src="https://i.ibb.co/Sd2KnMm/pou3.png" width="300" height="280" alt="uber-clone" />
+      <img class="wp-image-thumb img-responsive minha-classe" src="https://i.ibb.co/pQFXDY8/download-2.png" width="300" height="280" alt="uber-clone" />
 </div>
