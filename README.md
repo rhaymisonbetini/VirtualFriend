@@ -17,7 +17,7 @@
 
 # Jogo do amigo virtual
 
-Jogo criado em Javascript utilizando a biblioteca Pharse.js.  Projeto para fins de aprendizado e prática da criação de jogos com Javascript. 
+Jogo criado em Javascript utilizando a biblioteca Phaser.js.  Projeto para fins de aprendizado e prática da criação de jogos com Javascript. 
 
 # Sobre o jogo
 
@@ -39,5 +39,5 @@ Em seu local host na porta 8000 será rodado o jogo.
 
 - Laravel 
 - Javascript
-- Pharse
+- Phaser
 - HTML 5
