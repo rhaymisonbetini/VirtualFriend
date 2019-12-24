@@ -16,6 +16,10 @@
 	</head>
 
 	<body>  
+		<script src="{{asset('js/states/GameState.js')}}"></script>
+		<script src="{{asset('js/states/PreloadStage.js')}}"></script>
+		<script src="{{asset('js/states/BootState.js')}}"></script>
+		<script src="{{asset('js/states/HomeState.js')}}"></script>
 		<script src="{{asset('js/main.js')}}"></script>
 	</body>
 </html>
